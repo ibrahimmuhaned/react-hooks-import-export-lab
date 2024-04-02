@@ -1,3 +1,13 @@
+// import React from "react";
+
+// function NavBar() {
+//   return (
+//     <nav>
+//       <a href="#home">I'm a link!</a>
+//     </nav>
+//   );
+// }
+
 import React from "react";
 
 function NavBar() {
@@ -7,3 +17,5 @@ function NavBar() {
     </nav>
   );
 }
+
+export default NavBar;
